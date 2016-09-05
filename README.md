@@ -11,4 +11,4 @@ My reply to the question "What is your design/development approach" usually begi
 2. Get a backlogged project done
 
 # Full Documentation
-(see the ![project wiki](/christianbriggs/ProjectN/wiki))
+(see the [project wiki](/christianbriggs/ProjectN/wiki))
