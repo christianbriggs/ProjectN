@@ -1,5 +1,3 @@
-# ProjectN
-
 ![projectN](images/ProjectN.png)
 
 A soup to nuts full-stack project and process.
